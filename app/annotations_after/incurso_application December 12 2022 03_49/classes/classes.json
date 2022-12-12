@@ -1,0 +1,79 @@
+[
+    {
+        "createdAt": "2022-12-12T01:51:03.000Z",
+        "updatedAt": "2022-12-12T01:51:03.000Z",
+        "id": 1412457,
+        "project_id": 115063,
+        "type": "tag",
+        "name": "Bloodborne3",
+        "color": "#7C1A05",
+        "attribute_groups": [
+            {
+                "createdAt": "2022-12-12T01:51:03.000Z",
+                "updatedAt": "2022-12-12T01:51:03.000Z",
+                "id": 470341,
+                "group_type": "radio",
+                "class_id": 1412457,
+                "name": "something",
+                "attributes": [
+                    {
+                        "createdAt": "2022-12-12T01:51:03.000Z",
+                        "updatedAt": "2022-12-12T01:51:03.000Z",
+                        "id": 2038193,
+                        "group_id": 470341,
+                        "project_id": 115063,
+                        "name": "whatever",
+                        "count": 0,
+                        "default": 0
+                    }
+                ],
+                "default_value": null
+            }
+        ],
+        "count": 0
+    },
+    {
+        "createdAt": "2022-12-12T01:49:34.000Z",
+        "updatedAt": "2022-12-12T01:49:34.000Z",
+        "id": 1412456,
+        "project_id": 115063,
+        "type": "tag",
+        "name": "Bloodborne2",
+        "color": "#7C1A05",
+        "attribute_groups": [
+            {
+                "createdAt": "2022-12-12T01:49:34.000Z",
+                "updatedAt": "2022-12-12T01:49:34.000Z",
+                "id": 470340,
+                "group_type": "radio",
+                "class_id": 1412456,
+                "name": "whatever",
+                "attributes": [
+                    {
+                        "createdAt": "2022-12-12T01:49:34.000Z",
+                        "updatedAt": "2022-12-12T01:49:34.000Z",
+                        "id": 2038192,
+                        "group_id": 470340,
+                        "project_id": 115063,
+                        "name": "whatever",
+                        "count": 0,
+                        "default": 0
+                    }
+                ],
+                "default_value": null
+            }
+        ],
+        "count": 0
+    },
+    {
+        "createdAt": "2022-12-11T10:52:58.000Z",
+        "updatedAt": "2022-12-11T10:52:58.000Z",
+        "id": 1412437,
+        "project_id": 115063,
+        "type": "tag",
+        "name": "Bloodborne",
+        "color": "#7C1A05",
+        "attribute_groups": [],
+        "count": 0
+    }
+]
